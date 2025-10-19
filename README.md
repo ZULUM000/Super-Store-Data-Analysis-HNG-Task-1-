@@ -100,13 +100,11 @@ The dashboard analyzes:
 
 Suggestions for dashboard improvements are welcome! Please open an issue or submit a pull request with proposed enhancements.
 
-## 📝 License
-
-[Add your license information here]
 
 ## 👥 Contact
 
-[Add your contact information or team details here]
+Email: Enochjeremiah6@gmail.com
+Linked-In: https://www.linkedin.com/in/chukwuebuka-enoch/
 
 ---
 
