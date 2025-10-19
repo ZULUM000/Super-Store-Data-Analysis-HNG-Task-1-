@@ -4,7 +4,8 @@
 An interactive Power BI dashboard for comprehensive analysis of sales performance, profitability, and customer trends across a retail superstore network.
 
 ## 📊 Dashboard Overview
-<img width="1352" height="751" alt="image" src="https://github.com/user-attachments/assets/aef9601f-094f-4c6c-a6d7-3ca4e451ae5d" />
+<img width="1432" height="800" alt="image" src="https://github.com/user-attachments/assets/26ef3a07-69cb-44bd-bfb0-4d15046d7ab7" />
+
 
 This Power BI report provides real-time insights into business performance with interactive visualizations that enable data-driven decision making for retail operations.
 
